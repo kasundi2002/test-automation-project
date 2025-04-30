@@ -1,0 +1,22 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# IDEs
+*.iml
+.idea/
+*.class
+*.log
+*.swp
+*.DS_Store
+.vscode/
+
+# Logs
+logs/
+execution.log
+
+# OS/system files
+Thumbs.db
+.DS_Store
+ 
